@@ -60,8 +60,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Animeshsharma4&theme=omni&hide_border=false" width="400">
 </br>
 
-## 🐍 My Contributions:
-<img src="https://raw.githubusercontent.com/ketan270/ketan270/output/snake.svg" alt="Snake animation" />
 
 
 ### ✍ Random Dev Quote
