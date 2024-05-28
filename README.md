@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&random=false&width=900&height=80&lines=Enthusiastic+Full-Stack+Developer)](https://git.io/typing-svg)
 # 💫 About Me:
--🌱 Proficient in *Java* , *C/C++* , *SQL* , *Git* , *React.js* , *Express.js* , *MongoDB* , *Linux* , *Data Structure* and *Algorithm*<br><br> - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/animesh-sharma-a60444219/<br><br>- 📫 How to reach me **animeshsharma42002@gmail.com*
+-🌱 Proficient in *Java* , *C/C++* , *SQL* , *Git* , *React.js* , *Express.js* , *MongoDB* , *Linux* , *Data Structure* and *Algorithm*<br><br> - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/animesh-sharma-a60444219/<br><br>- 📫 How to reach me *animeshsharma42002@gmail.com*
 
 ## 📜 My MERN-STACK Project Cinematic <a href="" target="_blank">(Click the portal to go):</a><br>
   
